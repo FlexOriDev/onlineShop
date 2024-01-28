@@ -1,4 +1,5 @@
 # Flxcars
+#### Author : Louis PERON && [Noë MERCIER-BROSSE](https://github.com/NMercierBr)
 *Website based on online shop style. (In french)*
 
 
